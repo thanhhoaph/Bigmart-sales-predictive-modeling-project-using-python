@@ -1,0 +1,5 @@
+Item_Weight,Item_Fat_Content,Item_Visibility,Item_Type,Item_MRP,Outlet_Establishment_Year,Outlet_Size,Outlet_Location_Type,Outlet_Type
+9.3,Low Fat,0.016047301,Dairy,249.8092,1999,Medium,Tier 1,Supermarket Type1
+5.92,Regular,0.019278216,Soft Drinks,48.2692,2009,Medium,Tier 3,Supermarket Type2
+17.5,Low Fat,0.016760075,Meat,141.618,1999,Medium,Tier 1,Supermarket Type1
+19.2,Regular,0,Fruits and Vegetables,182.095,1998,,Tier 3,Grocery Store
