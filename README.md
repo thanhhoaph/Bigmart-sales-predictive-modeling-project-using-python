@@ -19,7 +19,7 @@ In this analysis, we use different methods to:
 Data source: https://www.kaggle.com/datasets/thedevastator/bigmart-product-sales-factors
 The dataset is about 1559 products across 10 stores in different cities, collected in 2013 by data scientists at BigMart. By exploring and analyzing this dataset, we can understand which factors really drive product sales.
 
-## Analysis: below is the brief of the analysis, more details in the jupyter notebook attached
+# Analysis: below is the brief of the analysis, more details in the jupyter notebook attached
 ### 1. Objective:
 This is an academic project I worked with my group in Predictive modeling course. The goal of the project is to see what factors affect the sales of a grocery store and create a model to predict sales.
 ## 2. Data exploration & Data cleaning:
